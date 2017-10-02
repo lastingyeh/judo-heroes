@@ -39,7 +39,7 @@
 
     hydrate(<AppClient />, document.getElementById('main'));
 
-  see. https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67
+   see. https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67
 
   2. /components/*
 
